@@ -18,4 +18,4 @@ The research paper detailing the automated path search program is available at h
 
 Forward two-round paths (starting bytes with 2 non-zero values) are contained in forwardpropagation2.py.<br/>
 Backward two-round paths (ending bytes with 8 non-zero values) are contained in backpropagation8.py.<br/>
-Inputting 2 and 8 in Get_Impossible_Differential_Path.py will yield all the paths that have been automatically identified.<br/>
+Inputting 2 and 8 in Get_Impossible_Differential_Path.py will yield paths that have been automatically identified.<br/>
