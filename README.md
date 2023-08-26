@@ -6,7 +6,7 @@ This program is an automatic four-round impossible differential path search for 
 
 ## A Related Paper
 
-The research paper detailing the automated path search program is available at https://github.com/rebound-rk/rebound-rk/blob/main/paper-quick-revised.pdf. Within this paper, you will find a wealth of additional insights and explanations, encompassing various aspects:
+The research paper detailing the automated path search program is available at https://github.com/whyaza/Automatically-find-impossible-differential-paths/blob/main/manuscript.pdf. Within this paper, you will find a wealth of additional insights and explanations, encompassing various aspects:
 
 **Validity Proof of Discovered Paths**: The paper rigorously verifies paths automatically identified by the program. 
 
