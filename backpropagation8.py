@@ -69,7 +69,7 @@ for ri in res:
             ri[i] = i-1
         else:
             ri[i] = "-"
-    #ri的答案格式：['0_1_2_4_6_9_10_14', 0, 0, 0, 3, 4, 5, 0, 0, 0, 0, 0, 0, 0, 13, 0, 0] ： [后向差分(str), 各有值的位置]
+    #ri's answer format: ['0_1_2_4_6_9_10_14', 0, 0, 0, 3, 4, 5, 0, 0, 0, 0, 0, 0, 0, 13, 0, 0] : [backward difference(str) , where each has a value]
 
 """
 for ri in res:
