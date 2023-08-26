@@ -28,7 +28,8 @@ for i in range(0,16):
         resi_m2SL.append(name)
         for yi in Y:
             if (i in yi) or (j in yi):
-                resi_m2SL.append(yi[0])      ##答案的格式为：起始差分1_起始差分2：m_2^{SL} 不为0的位置（是一个列表）
+                resi_m2SL.append(yi[0])      
+                ##The format of the answer is: start difference 1_ start difference 2: the position where m_2^{SL} is not 0 (it is a list)
         res_m2SL.append(resi_m2SL)
 
 named = []
