@@ -1,9 +1,9 @@
 import importlib
 
 fr_num_str = input("Please enter a front number: ")
-fr = importlib.import_module("fr_"+fr_num_str)
+fr = importlib.import_module("forwardpropagation"+fr_num_str)
 back_num_str = input("Please enter a back number: ")
-back = importlib.import_module("back_"+back_num_str)
+back = importlib.import_module("backpropagation"+back_num_str)
 
 f = fr.get_fr_res()
 #print(f)
